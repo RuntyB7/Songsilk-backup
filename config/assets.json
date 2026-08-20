@@ -1,0 +1,313 @@
+{
+  "images": [
+    {
+      "name": "tiles",
+      "path": "assets/images/tiles.png",
+      "width": 208,
+      "height": 240
+    },
+    {
+      "name": "background",
+      "path": "assets/images/backgroundFullUpscaled.png",
+      "width": 569,
+      "height": 320
+    },
+    {
+      "name": "titlescreen",
+      "path": "assets/images/titlescreen.png",
+      "width": 640,
+      "height": 360
+    },
+    {
+      "name": "victoryscreen",
+      "path": "assets/images/victoryscreen.jpg",
+      "width": 640,
+      "height": 360
+    },
+    {
+      "name": "SongsilkIcon",
+      "path": "assets/images/SongSilkIcon.png",
+      "width": 32,
+      "height": 32
+    },
+    {
+      "name": "titlecard",
+      "path": "assets/images/HallowedStepsFinalJury.png",
+      "width": 1606,
+      "height": 561
+    },
+    {
+      "name": "hornetfull",
+      "path": "assets/images/hornetcollectivesprites.png",
+      "width": 192,
+      "height": 96
+    },
+    {
+      "name": "silkbindanim",
+      "path": "assets/images/BindSilkFullAnim.png",
+      "width": 405,
+      "height": 5115
+    },
+    {
+      "name": "finaljury",
+      "path": "assets/images/LastJudge.png",
+      "width": 208,
+      "height": 256
+    },
+    {
+      "name": "healthbar",
+      "path": "assets/images/UIassets/HealthbarAnim.png",
+      "width": 335,
+      "height": 852
+    },
+    {
+      "name": "fullmask",
+      "path": "assets/images/UIassets/fullMask.png",
+      "width": 170,
+      "height": 2200
+    }
+  ],
+  "fonts": [
+    { "name": "HollowKnight", "path": "assets/fonts/trajanpro_bold.otf" }
+  ],
+  "sounds": [
+    {
+      "name": "slash1",
+      "path": "assets/sounds/slash1.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "slash2",
+      "path": "assets/sounds/slash2.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "slash3",
+      "path": "assets/sounds/slash3.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "slash4",
+      "path": "assets/sounds/slash4.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "bind2",
+      "path": "assets/sounds/bind2.mp3",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "Garama-weak",
+      "path": "assets/sounds/Garama-weak.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "honnet-grunt-1",
+      "path": "assets/sounds/honnet-grunt-1.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "honnet-grunt-2",
+      "path": "assets/sounds/honnet-grunt-2.mp3",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "honnet-jump",
+      "path": "assets/sounds/honnet-jump.mp3",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "honnet-voice",
+      "path": "assets/sounds/honnet-voice.mp3",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "defeat-grunt",
+      "path": "assets/sounds/defeat-grunt.mp3",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "bind1",
+      "path": "assets/sounds/bind1.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "bindsfxend",
+      "path": "assets/sounds/bindsfxend.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "bindloop",
+      "path": "assets/sounds/bindloop.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": true
+    },
+    {
+      "name": "firepillarsummon",
+      "path": "assets/sounds/firepillarsummon.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "firepillarsummon1",
+      "path": "assets/sounds/firepillarsummon1.wav",
+      "size": 25,
+      "volume": 0.7,
+      "loop": false
+    },
+    {
+      "name": "fireshockwave",
+      "path": "assets/sounds/fireshockwave.wav",
+      "size": 25,
+      "volume": 0.7,
+      "loop": false
+    },
+    {
+      "name": "BossTheme",
+      "path": "assets/sounds/25-Red-Maiden.mp3",
+      "size": 25,
+      "volume": 0.6,
+      "loop": true
+    },
+    {
+      "name": "BossTheme1",
+      "path": "assets/sounds/28-LastJudge.mp3",
+      "size": 25,
+      "volume": 0.5,
+      "loop": true
+    },
+    {
+      "name": "BossTheme2",
+      "path": "assets/sounds/44-CrustKing-Khann.mp3",
+      "size": 25,
+      "volume": 1,
+      "loop": true
+    },
+    {
+      "name": "TitleMusic",
+      "path": "assets/sounds/27-BlastedSteps.mp3",
+      "size": 5,
+      "volume": 0.7,
+      "loop": true
+    },
+    {
+      "name": "VictoryMusic",
+      "path": "assets/sounds/ThreefoldMelody.mp3",
+      "size": 25,
+      "volume": 0.7,
+      "loop": false
+    },
+    {
+      "name": "0-1-stun",
+      "path": "assets/sounds/0-1-stun.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "0-2-stun",
+      "path": "assets/sounds/0-2-stun.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "0-3-stun",
+      "path": "assets/sounds/0-3-stun.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "0-firespin",
+      "path": "assets/sounds/0-firespin.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": true
+    },
+    {
+      "name": "fj-idle-taunt",
+      "path": "assets/sounds/fj-idle-taunt.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "fj-jump",
+      "path": "assets/sounds/fj-jump.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "fj-slam-landing",
+      "path": "assets/sounds/fj-slam-landing.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "fj-slam-voice",
+      "path": "assets/sounds/fj-slam-voice.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "chant1",
+      "path": "assets/sounds/chant1.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "chant2",
+      "path": "assets/sounds/chant2.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "chant3",
+      "path": "assets/sounds/chant3.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    },
+    {
+      "name": "chant4",
+      "path": "assets/sounds/chant4.wav",
+      "size": 25,
+      "volume": 1,
+      "loop": false
+    }
+  ]
+}

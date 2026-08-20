@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<title>SongSilk</title>
+		<link rel="icon" type="image/x-icon" href="./assets/images/SongSilkIcon.ico">
+
+		<style>
+			* {
+				box-sizing: border-box;
+			}
+
+			body {
+				display: flex;
+				flex-direction: column;
+				justify-content: center;
+				align-items: center;
+				height: 100vh;
+				margin: 0;
+				background-color: #331717;
+				font-family: monospace;
+			}
+
+			canvas {
+				background-color: #0161bd;
+				outline: none;
+				image-rendering: crisp-edges;
+				image-rendering: pixelated;
+			}
+
+			#controlPanel {
+				display: flex;
+				justify-content: space-around;
+				background-color: #121212;
+				color: white;
+				width: 800px;
+				border-radius: 0 0 1rem 1rem;
+				padding-bottom: 1rem;
+			}
+
+			#controlPanel h2 {
+				text-align: center;
+			}
+
+			.control {
+				display: flex;
+				flex-direction: column;
+				width: 100%;
+			}
+
+			.control label {
+				display: flex;
+				justify-content: space-between;
+			}
+
+			.control input[type='range'] {
+				width: 100%;
+			}
+
+			.control input[type='checkbox'] {
+				justify-content: flex-start;
+			}
+		</style>
+	</head>
+
+	<body>
+		<!-- <img src="./assets/images/Hallowed StepsFinal Jury.png" width="500px"/> -->
+				<script type="module" src="./src/main.js"></script>
+	</body>
+</html>
